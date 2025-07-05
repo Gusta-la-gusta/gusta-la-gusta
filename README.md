@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" height="110" width="120"/>
   </a>
   
-  <a href="https://is.gd/G4CFYp">
+  <a href="mailto:gustavogomesdas1210@gmail.com?subject=&body=Oie!%20gostaria%20de%20saber%20mais%20sobre%20seus%20servi%C3%A7os!">
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" align="center" height="80" width="90"/>
   </a>
   
